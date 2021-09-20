@@ -2,12 +2,16 @@ public class hello
 
 {
 	 public static void main(String[] args) {
-		System.out.println("Hello everyone");
+		Roshan_part();
+		Kushal_part();
 	}
 	
 	public static void Roshan_part(){
 		System.out.println("Hello from Roshan");
 	}
-	
+
+	public static void Kushal_part(){
+		System.out.println("Hello from Kushal");
+	}
 	//create void method Kushal_part()
 }
